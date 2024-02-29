@@ -1,5 +1,5 @@
 {
-  "name": "parcel-project-template",
+  "name": "goit-js-hw-09",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://github.com/rhames86/goit-js-hw-09",
@@ -12,7 +12,7 @@
     "url": "https://github.com/rhames86/goit-js-hw-09"
   },
   "keywords": [],
-  "author": "Juan Batista",
+  "author": " ",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/rhames86/goit-js-hw-09/issues"
