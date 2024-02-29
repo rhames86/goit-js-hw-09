@@ -1,0 +1,88 @@
+/* Importación adicional de estilos */
+/* @import 'flatpickr/dist/flatpickr.min.css'; */
+
+.timer {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  justify-items: center;
+  font-size: 24px;
+  font-weight: bold;
+  /* background-color: rgb(127, 187, 255); */
+  gap: 25px;
+}
+
+.field {
+  /* margin: 0 10px; */
+  width: 50px;
+  height: 100px;
+  padding: none;
+  margin: none;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  justify-items: center;
+}
+
+.value {
+  /* padding: 5px 10px; */
+  border-radius: 5px;
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  margin: none;
+  position: absolute;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  justify-items: center;
+}
+
+.label {
+  /* margin-top: 5px; */
+  font-size: 15px;
+  margin: none;
+  padding: none;
+  position: relative;
+  top: 50%;
+  left: -1px;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.container {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.container input[type='text'],
+.container button {
+  margin: 5px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #027af2;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover,
+:focus {
+  background-color: #9aa8b8;
+  outline: none;
+}
+
+.input {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}

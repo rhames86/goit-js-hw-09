@@ -1,0 +1,20 @@
+.container-color-switch {
+  width: 1200px;
+  padding-top: 500px;
+  justify-content: center;
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  /* position: relative; */
+}
+
+button {
+  text-transform: uppercase;
+  font: arial;
+  width: 80px;
+  height: 38px;
+  /* left: 50%;
+  transform: translateX(-50%);
+  position: absolute; */
+  /* top: 0; */
+}
